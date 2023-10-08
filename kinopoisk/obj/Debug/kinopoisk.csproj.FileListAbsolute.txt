@@ -1,0 +1,33 @@
+C:\Users\User\source\repos\kinopoisk\kinopoisk\obj\Debug\kinopoisk.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\kinopoisk\kinopoisk\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\kinopoisk\kinopoisk\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\kinopoisk\kinopoisk\obj\Debug\App.g.cs
+C:\Users\User\source\repos\kinopoisk\kinopoisk\obj\Debug\kinopoisk_MarkupCompile.cache
+C:\Users\User\source\repos\kinopoisk\kinopoisk\obj\Debug\kinopoisk.g.resources
+C:\Users\User\source\repos\kinopoisk\kinopoisk\obj\Debug\kinopoisk.Properties.Resources.resources
+C:\Users\User\source\repos\kinopoisk\kinopoisk\obj\Debug\kinopoisk.csproj.GenerateResource.cache
+C:\Users\User\source\repos\kinopoisk\kinopoisk\obj\Debug\kinopoisk.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kinopoisk\kinopoisk\bin\Debug\kinopoisk.exe.config
+C:\Users\User\source\repos\kinopoisk\kinopoisk\bin\Debug\kinopoisk.exe
+C:\Users\User\source\repos\kinopoisk\kinopoisk\bin\Debug\kinopoisk.pdb
+C:\Users\User\source\repos\kinopoisk\kinopoisk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\kinopoisk\kinopoisk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\kinopoisk\kinopoisk\obj\Debug\kinopoisk.csproj.CopyComplete
+C:\Users\User\source\repos\kinopoisk\kinopoisk\obj\Debug\kinopoisk.exe
+C:\Users\User\source\repos\kinopoisk\kinopoisk\obj\Debug\kinopoisk.pdb
+C:\Users\User\source\repos\kinopoisk\kinopoisk\obj\Debug\MovieDetailsWindow.baml
+C:\Users\User\source\repos\kinopoisk\kinopoisk\obj\Debug\MovieDetailsWindow.g.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\kinopoisk\kinopoisk\obj\Debug\kinopoisk.csproj.AssemblyReference.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\kinopoisk\kinopoisk\obj\Debug\kinopoisk.csproj.SuggestedBindingRedirects.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\kinopoisk\kinopoisk\obj\Debug\MainWindow.baml
+C:\Users\Елизавета\OneDrive\Рабочий стол\kinopoisk\kinopoisk\obj\Debug\MovieDetailsWindow.baml
+C:\Users\Елизавета\OneDrive\Рабочий стол\kinopoisk\kinopoisk\obj\Debug\MainWindow.g.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\kinopoisk\kinopoisk\obj\Debug\MovieDetailsWindow.g.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\kinopoisk\kinopoisk\obj\Debug\App.g.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\kinopoisk\kinopoisk\obj\Debug\kinopoisk_MarkupCompile.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\kinopoisk\kinopoisk\obj\Debug\kinopoisk.g.resources
+C:\Users\Елизавета\OneDrive\Рабочий стол\kinopoisk\kinopoisk\obj\Debug\kinopoisk.Properties.Resources.resources
+C:\Users\Елизавета\OneDrive\Рабочий стол\kinopoisk\kinopoisk\obj\Debug\kinopoisk.csproj.GenerateResource.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\kinopoisk\kinopoisk\obj\Debug\kinopoisk.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\kinopoisk\kinopoisk\obj\Debug\kinopoisk.exe
+C:\Users\Елизавета\OneDrive\Рабочий стол\kinopoisk\kinopoisk\obj\Debug\kinopoisk.pdb
